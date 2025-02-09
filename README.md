@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React + PostgreSQL for a [Startup App Framework](https://github.com/dyor/attorneymesh/issues) (this is now a private repo - let me know if you want me to add you). You can learn more about my project on https://blog.dyor.com/
-- 👯 I’m looking to collaborate on open source startup frameworks - everything from code to contract (e.g., employment agreements, founder agreements, incorporation).
+- 🔭 I’m currently focused on Kotlin Multiplatform which allows you to partially or fully create Android and iOS applications using shared code. The app that I am spending most of my time with is [bapdap](https://bapdap.com) - short for build a plan do a plan - an AI assisted planning and execution app. 
+- 👯 I’m looking to collaborate on on cryptocurrency projects - in particular projects that leverage crypto for every day stuff (golf wagers, 1031 exchanges, funding startups, buying pizza). 
 - 💬 Ask me about startup product management, initial customer acquisition (e.g., landing your first 10 customers). 
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/mattdyor/) (but send me a note telling me you came from GitHub so I know it aint spam). 
 
