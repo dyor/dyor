@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I spent most of my time on Kotlin Multiplatform which allows you to (partially or fully) share code across Android and iOS. The personal KMP app that I am spending most of my time with is [bapdap](https://bapdap.com) - short for build a plan do a plan - an AI assisted planning and execution app. 
-- 👯 I’m looking to collaborate on mobile and/or cryptocurrency projects - in particular mobile projects that leverage crypto for every day stuff (golf wagers, 1031 exchanges, funding startups, buying pizza). I am tracking all of the ideas I am thinking about at [febak](https://febak.com).
-- 💬 Ask me about startup product management, initial customer acquisition (e.g., landing your first 10 customers). 
+- I work a lot with cross platform technology, both *Kotlin Multiplatform* and *React Native*.
+- My primary personal project is the Sparks App - an open source app that hosts many vibe-coded "sparks." Each of the sparks is a fun little experience - most written by me, some written by others, and others inspired by others still.
+- Contribute your own sparks here on [Spark's GitHub Repo](https://github.com/dyor/SparksApp?tab=readme-ov-file#2-using-github-codespaces) or learn more about the app at the [Sparks Website](https://sparks.febak.com). 
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/mattdyor/) (but send me a note telling me you came from GitHub so I know it aint spam). 
 
 
